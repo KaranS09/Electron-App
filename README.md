@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76aa7cca-f795-45e8-8ce5-84ae3e1fbb9f)# My Electron App 🚀
+#My Electron App 🚀
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEs8a-5j2CQMN5jnp-5sYCC816e4eI626Hw&s" alt="App Banner" />
 
