@@ -1,17 +1,41 @@
-To run the application from the tar.gz file, follow these steps:
+![image](https://github.com/user-attachments/assets/76aa7cca-f795-45e8-8ce5-84ae3e1fbb9f)# My Electron App 🚀
 
-1)Extract the tar.gz file:
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEs8a-5j2CQMN5jnp-5sYCC816e4eI626Hw&s" alt="App Banner" />
 
+## 📋 Description
+
+A modern desktop application built with Electron and web technologies.
+
+## ⚡ Quick Start
+
+First, download the latest release from our releases page and extract the tar.gz file:
+
+```bash
 tar -xzvf my-electron-app-1.0.0.tar.gz
+```
 
-2)Navigate to the extracted directory:
+## 🛠️ Installation Steps
 
-cd linux-unpacked
+<img src="/api/placeholder/600/200" alt="Installation Steps Diagram" />
 
-3)Make the file executable (if it's not already):
+1. **Extract the Archive** 📦
+   ```bash
+   tar -xzvf my-electron-app-1.0.0.tar.gz
+   ```
 
-chmod +x your-app-name
+2. **Navigate to App Directory** 📂
+   ```bash
+   cd linux-unpacked
+   ```
 
-4)Run the application:
+3. **Set Permissions** 🔐
+   ```bash
+   chmod +x my-electron-app
+   ```
 
-./my-electron-app
+4. **Launch Application** 🚀
+   ```bash
+   ./my-electron-app
+   ```
+
+Made with ❤️ using Electron
